@@ -1,6 +1,6 @@
 # Smart Attendance System using Face Detection with Open CV
 
-### Software Engineering mini project 
+
 
 ## Libraries Used:
 ○ Numpy - could be a library for Python, adding support for multi-dimensional arrays and
@@ -44,5 +44,3 @@ computer vision.
 
 
 
-**NOTE: Any modification/additional feature in this project would be appreciated. \
-Send a PR along with output screenshot, to get the new changes merged.**
